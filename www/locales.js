@@ -160,7 +160,7 @@ Locales.addLocale({
   rateButtonLabel: "Rate It Now",
   yesButtonLabel: "Yes!",
   noButtonLabel: "Not really",
-  appRatePromptTitle: 'Do you like using %@',
+  appRatePromptTitle: 'Do you like using %@?',
   feedbackPromptTitle: 'Mind giving us some feedback?',
   appRatePromptMessage:'',
   feedbackPromptMessage:''
